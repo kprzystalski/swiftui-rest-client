@@ -13,6 +13,7 @@
 		27326CC525B5E56C00E75CF1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27326CC425B5E56C00E75CF1 /* Preview Assets.xcassets */; };
 		27326CC725B5E56C00E75CF1 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27326CC625B5E56C00E75CF1 /* Persistence.swift */; };
 		27326CCA25B5E56C00E75CF1 /* sklep_rest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 27326CC825B5E56C00E75CF1 /* sklep_rest.xcdatamodeld */; };
+		27326CD325B5E80700E75CF1 /* ProduktView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27326CD225B5E80700E75CF1 /* ProduktView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		27326CC625B5E56C00E75CF1 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		27326CC925B5E56C00E75CF1 /* sklep_rest.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = sklep_rest.xcdatamodel; sourceTree = "<group>"; };
 		27326CCB25B5E56C00E75CF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		27326CD225B5E80700E75CF1 /* ProduktView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProduktView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				27326CCB25B5E56C00E75CF1 /* Info.plist */,
 				27326CC825B5E56C00E75CF1 /* sklep_rest.xcdatamodeld */,
 				27326CC325B5E56C00E75CF1 /* Preview Content */,
+				27326CD225B5E80700E75CF1 /* ProduktView.swift */,
 			);
 			path = "sklep-rest";
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27326CC725B5E56C00E75CF1 /* Persistence.swift in Sources */,
+				27326CD325B5E80700E75CF1 /* ProduktView.swift in Sources */,
 				27326CC025B5E55200E75CF1 /* ContentView.swift in Sources */,
 				27326CBE25B5E55200E75CF1 /* sklep_restApp.swift in Sources */,
 				27326CCA25B5E56C00E75CF1 /* sklep_rest.xcdatamodeld in Sources */,
